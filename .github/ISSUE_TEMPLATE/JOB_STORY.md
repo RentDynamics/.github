@@ -1,15 +1,17 @@
 ---
 name: Job Story
-about: This is for new features.
+about: You know... for features
 ---
 
 Job Story
 =======
->_When [user's work/life context] I want to [motivation] so I can [outcome/benefit]._
+<!--When [user's work/life context] I want to [motivation] so I can [outcome/benefit].-->
+
+<!-- insert job story here>
 
 Acceptance Criteria
 ===============
->_Given [condition of the system], when [action], then [outcome]_
+<!-- Given [condition of the system], when [action], then [outcome] -->
 
 1.
 2.
