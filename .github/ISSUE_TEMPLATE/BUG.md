@@ -1,5 +1,5 @@
 ---
-name: Job Story
+name: Bug
 about: This is for new features.
 ---
 
