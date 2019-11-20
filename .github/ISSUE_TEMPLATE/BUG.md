@@ -1,3 +1,8 @@
+---
+name: Job Story
+about: This is for new features.
+---
+
 ## Bug Story
 _When the user [does this action] [result] occurs.
 It is expected that [expected result] occurs._

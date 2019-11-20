@@ -1,3 +1,8 @@
+---
+name: Job Story
+about: This is for new features.
+---
+
 Job Story
 =======
 >_When [user's work/life context] I want to [motivation] so I can [outcome/benefit]._
