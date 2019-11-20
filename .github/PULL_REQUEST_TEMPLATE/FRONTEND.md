@@ -1,3 +1,8 @@
+---
+name: Front End
+about: This is for front end changes.
+---
+
 ## PR Checklist
  * Which ticket is this associated with?
     * Closes #ISSUE_NUMBER
