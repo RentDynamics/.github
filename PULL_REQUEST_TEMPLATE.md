@@ -15,7 +15,7 @@
 - [ ] Verify that all critical algorithms work as intended
 
 
-## Q/A Checklist (
+## Q/A Checklist (QA is responsbile for filling this out or providing a brief explanation why it isn't necessary)
 - [ ] Review that solution matches mockup
 - [ ] Review that solution matches JTBD
 - [ ] Update test plan with test cases created
