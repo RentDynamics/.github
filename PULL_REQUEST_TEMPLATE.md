@@ -10,6 +10,7 @@
 ## Dev Checklist (Code Reviewer is responsible for filling this out or providing a brief explanation why it isn't necessary)
 - [ ] Verify that code is tested appropriately 
 - [ ] Evaluate all calls to the DB are efficient
+- [ ] Ensure nullable values are treated as such and handled appropriately
 - [ ] Ensure any values returned for the DB are cached and reused
 - [ ] Evaluate any code that is run by a Pusher event is very clean and very necessary
 - [ ] Verify that all critical algorithms work as intended
